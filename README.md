@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Ashish Sharma, a passionate Software Developer and innovator with over 7 years of experience in Full Stack Development.
+- 👋 Hi, I'm Ashish Sharma, a passionate Software Developer and innovator with over 8 years of experience in Full Stack Development.
 - 👀 I am constantly on a learning journey exploring the latest Front End and Full Stack technologies. My repertoire now includes cutting-edge tools and frameworks, enabling me to stay ahead of the curve in this ever-dynamic field.
 - 🌱 Each line of code that I write adds a new chapter to my exciting story, spanning across various domains. From Cloud Security to E-commerce, every project serves as a canvas where I create immersive digital experiences.
 - 💞️ I'm always open to new challenges and opportunities that allow me to grow and contribute to the digital transformation.
